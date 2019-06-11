@@ -13,7 +13,6 @@ A study in Hangul font characteristics using convolutional neural networks
     1. *data image check.ipynb* : 학습 데이터 생성 전 문자 이미지를 어떻게 구성하는지 확인할 수 있음
     1. *generate_function.py* : 학습 데이터 생성에 필요한 내용을 함수화한 코드
     1. *generate_dataset.ipynb, .py* : 학습 데이터를 생성하는 코드
-1. model(lasagne version code)
-    1. *hangul_model.py* : cnn 모형을 함수화한 코드
+    1. *hangul_model.py* : cnn 모형을 함수화한 코드(lasagne version code)
     1. *hangul_cnn_setting.py* : cnn 모형을 학습하는데 필요한 코드
     1. *hangul_cnn_lasagne_code.py* : cnn 모형 학습 코드
